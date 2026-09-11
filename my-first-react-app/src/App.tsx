@@ -1,10 +1,10 @@
 import React from "react";
-import MyComponent from "./MyComponent";;
+import MyComponent from "./MyComponent";
 import "./App.css";
 
 function App() {
   return (
-    <div className="my-component">
+    <div className="App">
       <MyComponent />
     </div>
   );
